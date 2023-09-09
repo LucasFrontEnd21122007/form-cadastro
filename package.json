@@ -1,0 +1,13 @@
+{
+  "name": "Projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "keywords": [],
+  "author": "Lucas Martinez",
+  "license": "MIT",
+  "inicio":"08/09/2023"
+}
